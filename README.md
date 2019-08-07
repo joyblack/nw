@@ -6,6 +6,7 @@ The new job item.
 1. jsonwebtoken
 2. JPA
 3. spring-data-redis
+4. SpringBoot全局异常：HandlerExceptionResolver
 
 
 # Token认证
